@@ -14,6 +14,7 @@ function App() {
           <button class="bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-red-600 px-4 rounded-full px-4">Button</button>
           <div class=" flex justify-center">
             <button class="bg-orange-200 sm:bg-lime-400 md:bg-green-300 lg:bg-sky-400 px-8">Button</button>
+            <button class="bg-orange-200 sm:bg-lime-400 md:bg-green-300 lg:bg-sky-400 px-8">Button</button>
           </div>
       </main>
     </div>
